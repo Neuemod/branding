@@ -1,3 +1,3 @@
-# Nexa Project Branding
+# Phasemod Project Branding
 
-The offical Nexa Project branding graphic assets
+The offical Phasemod Project branding graphic assets
