@@ -1,3 +1,3 @@
-# Phasemod Project Branding
+# Quadscope Branding
 
-The offical Phasemod Project branding graphic assets
+The offical Quadscope branding assets
